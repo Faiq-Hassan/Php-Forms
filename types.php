@@ -10,7 +10,7 @@
 <body>
     <?php
 
-$string = "Ahmed";
+$string = "Ahme";
 $integer = 25;
 $float = 10.5;
 $boolan = true;
