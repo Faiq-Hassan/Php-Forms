@@ -1,0 +1,60 @@
+h1{
+    color:black;
+}
+
+section{
+    border: 2px solid bisque;
+    padding: 0px 30px;
+
+}
+
+
+.navbar{
+    background-color: tomato;
+    padding: 1px 0px;
+    margin-bottom: 20px;
+
+}
+
+.navbar ul{
+    display: flex;
+
+}
+
+.navbar ul li{
+    list-style: none;
+
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: white;
+}
+
+
+
+
+.box {
+   background-attachment: fixed;
+    background: url(images/mr1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    width: 100%;
+        height: 400px;
+
+
+
+    }
+
+    .box2{
+        background-image: url(images/food.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height:500px ;
+
+    }
+    
+    
